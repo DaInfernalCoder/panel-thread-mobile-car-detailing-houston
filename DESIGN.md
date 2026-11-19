@@ -1,4 +1,4 @@
-# Panel Thread design direction
+# Katy Mobile Car Detailing Pros design direction
 
 ## Subject, audience, and job
 

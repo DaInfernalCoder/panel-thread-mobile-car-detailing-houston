@@ -1,6 +1,6 @@
 # Launch asset sources
 
-All photographs are licensed stock used to illustrate detailing context. They do not depict Panel Thread staff, customers, customer vehicles, or completed Panel Thread work. Pexels images use the [Pexels license](https://www.pexels.com/license/).
+All photographs are licensed stock used to illustrate detailing context. They do not depict Katy Mobile Car Detailing Pros staff, customers, customer vehicles, or completed Katy Mobile Car Detailing Pros work. Pexels images use the [Pexels license](https://www.pexels.com/license/).
 
 - `hero-foam-car.jpg`: https://www.pexels.com/photo/30767229/
 - `clean-interior.jpg`: https://www.pexels.com/photo/a-man-cleaning-the-interior-parts-of-the-car-6873103/
@@ -11,4 +11,4 @@ All photographs are licensed stock used to illustrate detailing context. They do
 - `polishing-work.jpg`: https://www.pexels.com/photo/man-polishing-a-car-14908957/
 - `interior-finish.jpg`: https://www.pexels.com/photo/interior-of-a-car-16495940/
 
-The Panel Thread P-and-orbit logo is an original SVG created for this site. Local Archivo Black, Manrope, and IBM Plex Mono files are distributed under their Google Fonts open licenses: https://fonts.google.com/
+The Katy Mobile Car Detailing Pros P-and-orbit logo is an original SVG created for this site. Local Archivo Black, Manrope, and IBM Plex Mono files are distributed under their Google Fonts open licenses: https://fonts.google.com/
