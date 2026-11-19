@@ -2,7 +2,7 @@
 
 ## Subject, audience, and job
 
-Mobile detailing for Houston drivers who want consistent attention carried across cabin, glass, wheels, and exterior panels. The page should make that continuity visible and lead to calling or booking online once contact details are confirmed.
+Mobile detailing for Katy drivers who want consistent attention carried across cabin, glass, wheels, and exterior panels. The page should make that continuity visible and lead to calling or booking online once contact details are confirmed.
 
 ## Visual system
 

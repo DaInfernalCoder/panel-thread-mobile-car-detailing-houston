@@ -7,7 +7,7 @@ Create and launch Katy Mobile Car Detailing Pros as site 36 of the 100-site port
 ## Confirmed
 
 - Service: Mobile Car Detailing
-- Market: Houston, Texas
+- Market: Katy, Texas
 - Registered domain: `panelthread.shop`
 - Public phone: `+1 346-436-6292`
 - Street address: `4510 Pitts Rd, Katy, TX 77493`
@@ -37,7 +37,7 @@ The public phone and street address are confirmed as supplied by the owner. Lice
 
 ## Draft GBP description
 
-Katy Mobile Car Detailing Pros helps Houston drivers arrange careful interior and exterior vehicle care across Houston, Texas. This Car Detailing Houston service focuses on cabin surfaces, exterior panels, wheels, glass, and visible finish details for drivers in Houston, Texas. Katy Mobile Car Detailing Pros keeps the service scope tied to the vehicle's current condition and the areas the driver wants addressed. Drivers can use this Car Detailing Houston service for interior, exterior, or complete detailing arranged throughout Houston, Texas. Katy Mobile Car Detailing Pros offers online scheduling now, with its confirmed public phone added at final handoff.
+Katy Mobile Car Detailing Pros helps Katy drivers arrange careful interior and exterior vehicle care across Katy, Texas. This Car Detailing Katy service focuses on cabin surfaces, exterior panels, wheels, glass, and visible finish details for drivers in Katy, Texas. Katy Mobile Car Detailing Pros keeps the service scope tied to the vehicle's current condition and the areas the driver wants addressed. Drivers can use this Car Detailing Katy service for interior, exterior, or complete detailing arranged throughout Katy, Texas. Katy Mobile Car Detailing Pros offers online scheduling now, with its confirmed public phone added at final handoff.
 
 ## Blocker
 
