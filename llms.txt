@@ -1,26 +1,26 @@
-# Katy Mobile Car Detailing Pros
+# Mobile Car Detailing Katy Pros
 
 > Appointment-based mobile car detailing in Katy, Texas.
 
 ## Primary pages
-- [Homepage](https://panelthread.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://panelthread.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://panelthread.shop/#local-detailing): How mobile detailing works in Katy.
+- [Homepage](https://mobilecardetailingkaty.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://mobilecardetailingkaty.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://mobilecardetailingkaty.shop/#local-detailing): How mobile detailing works in Katy.
 
 ## Verified business facts
-- Business name: Katy Mobile Car Detailing Pros
+- Business name: Mobile Car Detailing Katy Pros
 - Primary service area: Katy, Texas
-- Telephone: +1 346-436-6292
+- Telephone: +1 346-658-3195
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://panelthread.shop/services/)
-- [Interior Car Detailing](https://panelthread.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://panelthread.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://panelthread.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://panelthread.shop/services/headlight-restoration/)
-- [About](https://panelthread.shop/about/)
-- [Contact](https://panelthread.shop/contact/)
+- [Services](https://mobilecardetailingkaty.shop/services/)
+- [Interior Car Detailing](https://mobilecardetailingkaty.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://mobilecardetailingkaty.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://mobilecardetailingkaty.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://mobilecardetailingkaty.shop/services/headlight-restoration/)
+- [About](https://mobilecardetailingkaty.shop/about/)
+- [Contact](https://mobilecardetailingkaty.shop/contact/)
 <!-- SEO-NEXT:END -->

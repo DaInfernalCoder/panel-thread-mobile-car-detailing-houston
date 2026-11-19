@@ -1,4 +1,4 @@
-# Katy Mobile Car Detailing Pros design direction
+# Mobile Car Detailing Katy Pros design direction
 
 ## Subject, audience, and job
 
