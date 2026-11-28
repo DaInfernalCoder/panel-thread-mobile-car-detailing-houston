@@ -12,7 +12,7 @@ Create and launch Mobile Car Detailing Katy Pros as site 36 of the 100-site port
 - Public phone: `+1 346-658-3195`
 - Street address: `4510 Pitts Rd, Katy, TX 77493`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://mobilecardetailingkaty.shop/scheduling
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 
